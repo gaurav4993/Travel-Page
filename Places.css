@@ -7,6 +7,8 @@ body {
 }
 header {
     position: static;
+    width: 100%;
+    box-sizing: border-box;
 }
 header a {
     color: rgb(183, 230, 235);
@@ -14,10 +16,6 @@ header a {
 header nav a:hover {
     background-color: rgb(183, 230, 235);
     color: rgb(59, 59, 59);
-}
-main {
-    box-sizing: border-box;
-    width: 100%;
 }
 main ul {
     width: 1200px;
