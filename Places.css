@@ -17,6 +17,7 @@ header nav a:hover {
 }
 main {
     box-sizing: border-box;
+    width: 100%;
 }
 main ul {
     width: 1200px;
